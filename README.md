@@ -52,7 +52,7 @@ rake timerApp:remind_me
 ```sh
 what you would like me to remind you ?
 ```
-* You may answer like this 
+** You may answer like this 
 * remind me i have meeting in 5 min
 ```sh
 In how many hours you would lke to reminded ?
