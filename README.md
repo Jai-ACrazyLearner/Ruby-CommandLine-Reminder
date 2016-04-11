@@ -21,7 +21,7 @@ on project directory do
 ```sh
 $bundle install
 ```
-On project directory do **$ rake -T**
+On project directory do $ `rake -T'
 
 it should list all the services that can be avaliable through the app
 
